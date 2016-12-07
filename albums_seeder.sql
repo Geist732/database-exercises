@@ -18,6 +18,19 @@ VALUES ('Michael Jackson' , 'Thriller' , 1982 , 46.0, 'ROCK'),
        ('Eagles' ,	'Hotel California' ,	1976 , 21.5 ,'ROCK'),
        ('Mariah Carey' , 'Music Box' ,	1993 , 19.0 ,'POP'),
        ('Michael Jackson' , 'Dangerous' ,	1991 , 17.6, 'POP'),
+       ('Celine Dion' ,	'Let''s Talk About Love' , 1997 , 19.3 ,'POP'),
+       ('The Beatles' ,	'1' ,	2000 , 21.6 , 'ROCK'),
+       ('The Beatles' ,	'Abbey Road' ,	1969 , 14.4 , 'ROCK'),
+       ('Bruce Springsteen' ,	'Born in the U.S.A.' ,	1984 , 19.6 , 'ROCK'),
+       ('Dire Straits' ,	'Brothers in Arms' , 1985 , 17.7 , 'ROCK'),
+       ('James Horner' ,	'Titanic: Music from the Motion Picture' ,	1997 ,18.1 , 'SOUNDTRACK' ),
+       ('Madonna' ,	'The Immaculate Collection' ,	1990 , 19.4 , 'POP'),
+       ('Metallica' ,	'Metallica' ,	1991, 19.9 , 'METAL'),
+       ('Nirvana' ,	'Nevermind' ,	1991 , 16.7, 'ROCK'),
+       ('Pink Floyd' ,'The Wall' , 1979, 17.6, 'ROCK'),
+       ('Santana' ,	'Supernatural' , 1999 , 20.5 , 'ROCK' ),
+       ('Guns N'' Roses' ,	'Appetite for Destruction' ,	1987 , 21.3 , 'METAL')
+
 
 
 
