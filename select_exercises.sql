@@ -10,4 +10,4 @@ SELECT*FROM albums WHERE release_date > 1990 AND release_date <2000;  /* Step 4 
 
 SELECT*FROM albums WHERE sales < 20; /*Step 5*/
 
-SELECT * FROM  albums WHERE genre = 'ROCK'; /*Step  6 */
+SELECT * FROM  albums WHERE genre = 'ROCK'; /*Step 6 */
